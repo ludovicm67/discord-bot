@@ -12,6 +12,14 @@ discord.js@^11.1.0:
     tweetnacl "^0.14.0"
     ws "^2.0.0"
 
+giphy-api@^1.2.6:
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/giphy-api/-/giphy-api-1.2.6.tgz#bbe9dfc2ff672e0db630d82db9fe7b408bc21748"
+
+inherits@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.1.tgz#b17d08d326b4423e568eff719f91b0b1cbdf69f1"
+
 long@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/long/-/long-3.2.0.tgz#d821b7138ca1cb581c172990ef14db200b5c474b"
@@ -35,6 +43,12 @@ tweetnacl@^0.14.0:
 ultron@~1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/ultron/-/ultron-1.1.0.tgz#b07a2e6a541a815fc6a34ccd4533baec307ca864"
+
+util@^0.10.3:
+  version "0.10.3"
+  resolved "https://registry.yarnpkg.com/util/-/util-0.10.3.tgz#7afb1afe50805246489e3db7fe0ed379336ac0f9"
+  dependencies:
+    inherits "2.0.1"
 
 ws@^2.0.0:
   version "2.3.1"

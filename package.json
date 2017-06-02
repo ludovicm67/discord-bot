@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/ludovicm67/discord-bot#readme",
   "dependencies": {
-    "discord.js": "^11.1.0"
+    "discord.js": "^11.1.0",
+    "giphy-api": "^1.2.6",
+    "util": "^0.10.3"
   }
 }
